@@ -1,1 +1,3 @@
-print(12)
+#new comment
+name = input()
+print (f"hello {name}")

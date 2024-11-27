@@ -1,4 +1,7 @@
 #new comment123
 name = input()
+#surname
 surname = input()
-print (f"hello my bro {name} {surname}")
+#lastname
+lastname = input ()
+print (f"hello my bro {name} {surname} {lastname}")
